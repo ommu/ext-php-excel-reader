@@ -14,7 +14,7 @@
  *
  * A typical usage of OExcelReader is as follows:
  * <pre>
- * Yii::import('application.vendors.ommu.php-excel-reader.OExcelReader');
+ * Yii::import('application.vendor.ommu.php-excel-reader.OExcelReader');
  * $data=new OExcelReader('example.xls');
  * echo $data->dump(true,true);
  * </pre>
