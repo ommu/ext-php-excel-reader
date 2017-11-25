@@ -9,12 +9,12 @@
  * @modify Putra Sudaryanto <putra@sudaryanto.id>
  * @copyright Copyright (c) 2017 Ommu Platform (opensource.ommu.co)
  * @created date 25 September 2017, 05:24 WIB
- * @link https://github.com/ommu/php-excel-reader
+ * @link https://github.com/ommu/ommu-excel-reader
  * @contact (+62)856-299-4114
  *
  * A typical usage of OExcelReader is as follows:
  * <pre>
- * Yii::import('application.vendor.ommu.php-excel-reader.OExcelReader');
+ * Yii::import('ext.php-excel-reader.OExcelReader');
  * $data=new OExcelReader('example.xls');
  * echo $data->dump(true,true);
  * </pre>
