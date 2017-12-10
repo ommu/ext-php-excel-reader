@@ -1,6 +1,6 @@
 {
 	"name": "ommu/php-excel-reader",
-	"description": "PHP Excel Reader for Ommu Platform",
+	"description": "PHP Excel Reader",
 	"keywords": [
 		"extension",
 		"php excel reader",
@@ -39,7 +39,6 @@
 	],
 	"require": {
 		"php": ">=5.3.2",
-		"oomphinc/composer-installers-extender": "^1.0",
-		"yiisoft/yii": ">=1.1.14"
+		"oomphinc/composer-installers-extender": "^1.0"
 	}
 }
