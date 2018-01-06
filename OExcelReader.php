@@ -7,10 +7,10 @@
  * @version alpha 2 2010-5-18 14:26
  *
  * @modify Putra Sudaryanto <putra@sudaryanto.id>
+ * @contact (+62)856-299-4114
  * @copyright Copyright (c) 2017 Ommu Platform (opensource.ommu.co)
  * @created date 25 September 2017, 05:24 WIB
  * @link https://github.com/ommu/ommu-excel-reader
- * @contact (+62)856-299-4114
  *
  * A typical usage of OExcelReader is as follows:
  * <pre>
