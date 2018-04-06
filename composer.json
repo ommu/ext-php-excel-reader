@@ -1,6 +1,6 @@
 {
 	"name": "ommu/php-excel-reader",
-	"description": "PHP Excel Reader",
+	"description": "PHP Excel Reader from Ommu Platform",
 	"keywords": [
 		"extension",
 		"php excel reader",
@@ -9,7 +9,6 @@
 		"reader",
 		"xls",
 		"ommu",
-		"platform",
 		"ommu platform"
 	],
 	"homepage": "https://github.com/ommu/ext-php-excel-reader",
