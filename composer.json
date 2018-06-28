@@ -9,7 +9,7 @@
 		"reader",
 		"xls",
 		"ommu",
-		"ommu platform"
+		"ommu-platform"
 	],
 	"homepage": "https://github.com/ommu/ext-php-excel-reader",
 	"type": "ommu-extension",
