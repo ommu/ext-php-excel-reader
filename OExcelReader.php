@@ -6,7 +6,7 @@
  * @author jerry2801 <jerry2801@gmail.com>
  * @version alpha 2 2010-5-18 14:26
  *
- * @modify Putra Sudaryanto <putra@sudaryanto.id>
+ * @modify Putra Sudaryanto <putra@ommu.co>
  * @contact (+62)856-299-4114
  * @copyright Copyright (c) 2017 Ommu Platform (www.ommu.co)
  * @created date 25 September 2017, 05:24 WIB
